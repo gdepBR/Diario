@@ -1,7 +1,7 @@
 # Diario
 Diário de estudos, tudo que eu estudar vai ficar aqui.
 
-## 21/0925
+## 21/09/25
 - mexi com uns scans de rede que estou tentando melhorar.
 - não está perfeito, por isso que vou tentar aprender
 - mais sobre eles. resolvi voltar a base de estudos antes
