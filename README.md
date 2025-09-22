@@ -1,5 +1,5 @@
 # Diario
-Diário de estudos, tudo que eu estudar vai ficar aqui.
+Diário, tudo que acontecer comigo vai ficar aqui.
 
 ## 21/09/25
 - mexi com uns scans de rede que estou tentando melhorar.
