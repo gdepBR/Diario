@@ -30,7 +30,7 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -  
 -  Sinto que o certo virou o errado e o errado virou o "certo" nesse ambiente.
 -  Sem falar na hora que eu estava voltando para a casa depois dessas 8 horas perdidas... eu observei um casal na rua
--  que estavam falando de criar conteúdos mais +18(mesmo claramente os 2 tendo -18).pqp mano, que porra de mundo que é esse.
+-  que estavam falando de criar conteúdos mais +18 no privacy(mesmo os 2 tendo -18).pqp mano, que porra de mundo que é esse.
 -  Mas como todo dia ruim ainda pode melhorar(nem que seja o mínimo) eu ainda consegui fazer uns scripts em python
 -  durante a aula de informática. fazer scripts + ouvir música = combo perfeito pra focar insanamente no presente/saúde mental kkk.
 -  
