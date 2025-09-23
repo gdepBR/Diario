@@ -34,7 +34,9 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -  Mas como todo dia ruim ainda pode melhorar(nem que seja o mínimo) eu ainda consegui fazer uns scripts em python
 -  durante a aula de informática. fazer scripts + ouvir música = combo perfeito pra focar insanamente no presente/saúde mental kkk.
 -  
+-  Também fiz um treino de barra fixa saindo da escola só pra dessestresar um pouco(fiz na força do ódio literalmente kk).
+-  
 -  Ferramenteas:
 -  1- linguagem Python
--  2 scripts: scripts de treinamento(coisas básicas)
+-  2 scripts: scripts de treinamento(coisas básicas).
 
