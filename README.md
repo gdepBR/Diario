@@ -43,7 +43,7 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -  ## 24/09/25
 -  Como nem tudo é só desgraça, hoje o dia foi diferenciado, eu finalmente tive tempo pra caramba pra progrmar na escola.
 -  Fiz uns scripts em python pra testar a minha lógica(loops, variáveis...) e senti que teve diferença.
--  Tabém tive uma melhoria absurda no meu scanner de portinhas, consegui colocar ele na versão "usavél" pela 1° vez kkkk.
+-  Tabém tive uma melhoria absurda no meu scanner de portinhas, consegui colocar ele na versão "usável" pela 1° vez kkkk.
 -  Eu sinto que quando estou programando tranquilo ouvindo música + ambinte calmo o dia rende de mais.
 
 -  Ferramentas:
