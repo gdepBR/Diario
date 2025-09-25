@@ -49,5 +49,17 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -  Ferramentas:
 -  1- Python
 -  2-scripts de lógica.
+
+-  ## 25/09/25
+
+-  Hoje o dia foi tranquilo. dei um tempo a mais do pc(nem que seja o mínimo) pra recperar a sanidade kkk.
+-  Hoje na escola eu dei uma pesquisado sobre certificações de pentest e vi algumas relacionadas a "pentester júnior" e me interessei poir isso.
+-  Acho que vou focar nessa parte de certificações/tryhack ou cusros gratis pela net(deve ter "ouro" só esperando algum curuioso chegar kk).
+-  Dei uma estudada nas portas mais usadas pelos hackers para fazer tipos ateques e percebi que elas não são muitas.
+-  Acho que elas são mais "expecíficas", tipo, o hacker não vai saber tudo de uma porta até precisar usar ela,saca?
+-   Por hoje foi só isso mesmo:
+
+-   Oque eu estudei hoje: Portas comuns em ataques.
+-   portas: 22,53,80,139,443,445 e 3389.
 -  
 
