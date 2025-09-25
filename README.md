@@ -61,5 +61,7 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 
 -   Oque eu estudei hoje: Portas comuns em ataques.
 -   portas: 22,53,80,139,443,445 e 3389.
+
+-   Atualização: Tabém mexi com wireshark no final da noite(capturar os "fingerprint" dos serviços(SSH).
 -  
 
