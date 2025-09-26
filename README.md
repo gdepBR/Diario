@@ -63,5 +63,15 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   portas: 22,53,80,139,443,445 e 3389.
 
 -   Atualização: Tabém mexi com wireshark no final da noite(capturar os "fingerprint" dos serviços(SSH).
+
+-   ## 26/09/25
+
+-   Hoje na escola eu tentei dar uma revisada no que estou aprendendo(redes e scripts em python) e consegui relembrar um pouco o conteúdo.
+-   dei uma relembrada nos temas de fingerprint,coockies e token.
+-   Também fiz um scanner de portas mais interativo com o user(ele escolhe o ip e a porta).
+-   Nele eu usei o "str" para o ip e o "int" para a porta alvo.
+-   Ele ficou bem simples mais muito funcional(perfeito pra mim).
+-   Agora no finalzinho do dia eu dei uma sniffada na rede do mei LAB interno com o wireshark(capturar uns ICMP).
+-   Por hoje é isso. sempre fazendo milagre com esse pouco tempo que tenho fora da escola kkk.
 -  
 
