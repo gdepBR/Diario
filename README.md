@@ -73,5 +73,14 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   Ele ficou bem simples mais muito funcional(perfeito pra mim).
 -   Agora no finalzinho do dia eu dei uma sniffada na rede do mei LAB interno com o wireshark(capturar uns ICMP).
 -   Por hoje é isso. sempre fazendo milagre com esse pouco tempo que tenho fora da escola kkk.
+
+-   ## 27/09/25
+-   Finalmente o final de semana chegou, agora é hora de descançar um pouco.
+-   Hoje eu só fiz uns scripts de teste em python pra testar a lógica.
+-   Também aproveitei esse tempo pra fazer a recuperação de português da escola kk.
+
+-   Ferramenta: Python
+-   keywords(palavras reservadas para a lingauem):
+-   if,else,elif,continue,break,for e in.
 -  
 
