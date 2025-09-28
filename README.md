@@ -82,5 +82,10 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   Ferramenta: Python
 -   keywords(palavras reservadas para a lingauem):
 -   if,else,elif,continue,break,for e in.
--  
+
+-  # 28/09/25
+-  Dia de descanço, mas sem ficar 100% parado.
+-  joguei um pouco pra descançar e na parte da tarde fiz uns códigos em python.
+-   Ferramentas: Python
+-   keywords: continue  e pass.
 
