@@ -83,13 +83,13 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   keywords(palavras reservadas para a lingauem):
 -   if,else,elif,continue,break,for e in.
 
--  # 28/09/25
+-  ## 28/09/25
 -  Dia de descanço, mas sem ficar 100% parado.
 -  joguei um pouco pra descançar e na parte da tarde fiz uns códigos em python.
 -   Ferramentas: Python
 -   keywords: continue  e pass.
 
--   # 29/09/25
+-   ## 29/09/25
 
 -   Acho que descobri a minha maneira de estudar cybersec, e ela funciona assim:
 -   1- Enteder a teoria(ex: como funciona um DNS).
