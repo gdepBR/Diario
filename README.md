@@ -89,3 +89,14 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   Ferramentas: Python
 -   keywords: continue  e pass.
 
+-   # 29/09/25
+
+-   Acho que descobri a minha maneira de estudar cybersec e ela funciona assim:
+-   1- Enteder  a teoria(ex: como funciona um DNS)
+-   2- Depois ver como os hackers explorariam essa teoria com prática(absurdos que pode se fazer com essas teorias + práticas)
+-   3- Anotar no caderno ou qualquer outro lugar para revisar depois
+-   5- Responder perguntas sobre o tema (usei o CHATGPT para isso e funcionou perfeitamente)
+-   6- Pensar em como você pode ver essa teoria no mundo real ( o CACHE por ex, eu vejo ele toda vez que saio do CHATGPT, ele tem um CACHE  temporário).
+
+-   Finalizando:
+-   Encontre a sua maneira de aprender indenpendentemente do que os outros digam. já passei por isso e estou colhendo o que eu plantei com meu esforço.
