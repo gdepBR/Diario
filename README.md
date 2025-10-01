@@ -86,6 +86,7 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -  ## 28/09/25
 -  Dia de descanço, mas sem ficar 100% parado.
 -  joguei um pouco pra descançar e na parte da tarde fiz uns códigos em python.
+-  
 -   Ferramentas: Python
 -   keywords: continue  e pass.
 
@@ -110,3 +111,14 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   Ferramentas: NSLOOKUP e DIG
 -   protocolo: DNS
 -   exercício: Descobrir o ip público + server dono do domínio.
+
+-   ## 1/10/25
+-   Hoje eu atualizei o meu githb com mais 2 dias (não tinha postado no dia anterior).
+-   Ainda estou estudando sobre DNS e DIG pra poder participar de um CTF envolvendo isso.
+-   Usei o DIG pra analisar domínios e tentar achar algo interessante (achei nada kk).
+-   
+-   Ferramenta: DIG
+-   protocolo: DNS
+-   exercício: Usar o DIG em domínois e tentar achar algo/aprender a usa-lo.
+-   
+-   
