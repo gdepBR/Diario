@@ -120,5 +120,3 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   Ferramenta: DIG
 -   protocolo: DNS
 -   exercício: Usar o DIG em domínois e tentar achar algo/aprender a usa-lo.
--   
--   
