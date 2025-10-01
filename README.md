@@ -100,3 +100,13 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 
 -   Finalizando:
 -   Encontre a sua maneira de aprender indenpendentemente do que os outros digam. já passei por isso e estou colhendo o que eu plantei com meu esforço.
+
+-   ## 30/09/25
+-   Ontem eu estudei mais um pouco sobre DNS.
+-   É um assunto interessante, ainda mais quando vemos como ele pode ser explorado pelos hacker para fazer ataques ( o DNS tunneling por exemplo)
+-   Também usei o NSLOOKUP e o DIG pra ver os ips públicos dos domínios + expecificar qual DNS eu iria usar para faazer isso.
+-   Eu ainda acho alguns pontos meio confusos em relação ao DNS, mas nada que muita prática e teoria não resolva kkkk
+
+-   Ferramentas: NSLOOKUP e DIG
+-   protocolo: DNS
+-   exercício: Descobrir o ip público + server dono do domínio.
