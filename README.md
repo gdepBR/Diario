@@ -121,7 +121,8 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   protocolo: DNS
 -   exercício: Usar o DIG em domínois e tentar achar algo/aprender a usa-lo.
 
--   ## A cada dia que estudo cybersec eu sinto que njão sei de nada.
+-   ## 2/10/25
+-   A cada dia que estudo cybersec eu sinto que njão sei de nada.
 -   Tentei participar de um CTF(capture-the-flag) e me senti um merda por nãoa char a flag.
 -   Sinto que fiz um mini progresso, asm pra terminar ele, vai ser necessário aprender mais sobre o DIG e DNS.
 -   Foi interessante mas ao mesmo tempo muito cansativo participar desses "jogos hackers" kkkk.
