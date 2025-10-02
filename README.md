@@ -126,3 +126,7 @@ Diário, tudo que acontecer comigo vai ficar aqui.
 -   Tentei participar de um CTF(capture-the-flag) e me senti um merda por nãoa char a flag.
 -   Sinto que fiz um mini progresso, asm pra terminar ele, vai ser necessário aprender mais sobre o DIG e DNS.
 -   Foi interessante mas ao mesmo tempo muito cansativo participar desses "jogos hackers" kkkk.
+-   
+-   CTF: DIG-DUG
+-   Ferramenta: DIG
+-   Progresso: MÍNIMO, mas melhor do que nada kk.
